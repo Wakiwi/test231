@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xA81e47497F21C783ff4Cd1dbd330B6bd256fafba",
+  "SCAN_LINK": "https://goerli.etherscan.io/address/0xa81e47497f21c783ff4cd1dbd330b6bd256fafba",
+  "NETWORK": {
+    "NAME": "Goerli",
+    "SYMBOL": "ETH",
+    "ID": 5
+  },
+  "NFT_NAME": "HUKAO",
+  "SYMBOL": "HUKA",
+  "MAX_SUPPLY": 20,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 50000000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/hukao",
+  "SHOW_BACKGROUND": true
+}
